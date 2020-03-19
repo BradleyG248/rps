@@ -49,7 +49,7 @@ namespace rps
           {
             Console.WriteLine("Neither of you won!");
           }
-          else if (compChoice == 0 && playerNum != 2 || playerNum > compChoice || playerNum == 0 && compChoice == 2)
+          else if (compChoice == 0 && playerNum != 2 || playerNum > compChoice && compChoice != 0 || playerNum == 0 && compChoice == 2)
           {
             playerWins++;
             Console.WriteLine($"{name} wins!");
