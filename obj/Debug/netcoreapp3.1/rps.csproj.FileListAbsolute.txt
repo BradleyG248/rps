@@ -1,0 +1,13 @@
+C:\source\codeworks\rps\bin\Debug\netcoreapp3.1\rps.exe
+C:\source\codeworks\rps\bin\Debug\netcoreapp3.1\rps.deps.json
+C:\source\codeworks\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.json
+C:\source\codeworks\rps\bin\Debug\netcoreapp3.1\rps.runtimeconfig.dev.json
+C:\source\codeworks\rps\bin\Debug\netcoreapp3.1\rps.dll
+C:\source\codeworks\rps\bin\Debug\netcoreapp3.1\rps.pdb
+C:\source\codeworks\rps\obj\Debug\netcoreapp3.1\rps.csprojAssemblyReference.cache
+C:\source\codeworks\rps\obj\Debug\netcoreapp3.1\rps.csproj.CoreCompileInputs.cache
+C:\source\codeworks\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfoInputs.cache
+C:\source\codeworks\rps\obj\Debug\netcoreapp3.1\rps.AssemblyInfo.cs
+C:\source\codeworks\rps\obj\Debug\netcoreapp3.1\rps.dll
+C:\source\codeworks\rps\obj\Debug\netcoreapp3.1\rps.pdb
+C:\source\codeworks\rps\obj\Debug\netcoreapp3.1\rps.genruntimeconfig.cache
